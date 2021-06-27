@@ -2,6 +2,6 @@
 
 Table of Contents for code challenges:
 
-| Code Challenge   | README file                                |
-| ---------------- | ------------------------------------------ |
-| Code-Challenge 1 | [Array Reverse](CodeChallenge-1/README.md) |
+| Code Challenge   | README file                                           |
+| ---------------- | ----------------------------------------------------- |
+| Code-Challenge 1 | [Array Reverse](challenges/codeChallenge-1/README.md) |
